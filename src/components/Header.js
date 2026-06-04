@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { ModeToggle } from './theme/mode-toggle';
 import { cn } from '../lib/utils';
-import resumePdf from '../Assets/Aditya_kumar_Java_full_stack_developer_resume.pdf';
+import resumePdf from '../Assets/Ernest_Muchiri_Resume.pdf';
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -43,7 +43,7 @@ const Header = () => {
             className="text-lg font-semibold text-foreground hover:text-primary transition-colors"
             onClick={() => scrollToSection('about')}
           >
-            Aditya Kumar Srivastava
+            ERNEST MUCHIRI
           </button>
           <ul className="hidden md:flex items-center gap-6 text-sm">
             <li><a className="hover:text-primary transition-colors" href="#about" onClick={() => scrollToSection('about')}>About</a></li>
@@ -56,7 +56,7 @@ const Header = () => {
             <li>
               <a 
                 href={resumePdf} 
-                download="Aditya_Kumar_Resume.pdf" 
+                download="Ernest_Muchiri_Resume.pdf" 
                 className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
               >
                 Resume
@@ -86,7 +86,7 @@ const Header = () => {
               <li>
                 <a 
                   href={resumePdf} 
-                  download="Aditya_Kumar_Resume.pdf" 
+                  download="Ernest_Muchiri_Resume.pdf" 
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
                   Resume

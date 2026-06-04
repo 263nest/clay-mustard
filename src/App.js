@@ -18,68 +18,57 @@ function App() {
     <div className="min-h-screen bg-background text-foreground">
       <Helmet>
         <title>
-          Aditya Kumar Srivastava — Java Full Stack Developer | Spring Boot, React, AWS
+          Ernest Muchiri — Full Stack Developer | React, Node.js, Cloud
         </title>
         <meta
           name="description"
-          content="Aditya Kumar Srivastava — Java Full Stack Developer with 3.5+ years building enterprise-grade applications using Java, Spring Boot, React, PostgreSQL, Redis, and AWS. AWS Certified Developer."
+          content="Ernest Muchiri — Full Stack Developer building modern applications with React, Node.js, and cloud technologies."
         />
         <meta
           name="keywords"
-          content="Adityasri, AdityaSri, adityasri.in, Aditya Kumar Srivastava,adityasri portfolio, aditya kumar portfolio, Software Engineer, Aditya Kumar Srivastava, Java Full Stack Developer, Spring Boot Developer, Java Developer India, React Developer, AWS Certified Developer, Microservices Architecture, REST API Design, PostgreSQL, Redis Caching, Spring Security, JUnit Mockito, Cognizant Developer, Software Engineer Noida, adityasri.in, Spring AI"
+          content="Ernest Muchiri, Full Stack Developer, React Developer, Node.js Developer, Web Developer, portfolio, GitHub Pages"
         />
-        <meta name="author" content="Aditya Kumar Srivastava" />
+        <meta name="author" content="Ernest Muchiri" />
         <meta
           property="og:title"
-          content="Aditya Kumar Srivastava — Java Full Stack Developer"
+          content="Ernest Muchiri — Full Stack Developer"
         />
         <meta
           property="og:description"
-          content="Java Full Stack Developer specializing in Spring Boot, React, PostgreSQL & AWS. 3.5+ years of enterprise experience. Explore projects, skills & certifications."
+          content="Full Stack Developer creating modern React and Node.js applications. Explore projects, skills and experience."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://adityasri.in" />
+        <meta property="og:url" content="https://263nest.github.io/clay-mustard" />
         <meta
           property="og:site_name"
-          content="Aditya Kumar Srivastava Portfolio"
+          content="Ernest Muchiri Portfolio"
         />
         <meta property="og:locale" content="en_US" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@adityasri_in" />
-        <meta name="twitter:creator" content="@adityasri_in" />
+        <meta name="twitter:site" content="@263nest" />
+        <meta name="twitter:creator" content="@263nest" />
         <meta
           name="twitter:title"
-          content="Aditya Kumar Srivastava — Java Full Stack Developer"
+          content="Ernest Muchiri — Full Stack Developer"
         />
         <meta
           name="twitter:description"
-          content="Java Full Stack Developer with 3.5+ years in Spring Boot, React, PostgreSQL & AWS. View my portfolio."
+          content="Full Stack Developer creating modern React and Node.js applications. View my portfolio."
         />
-        <link rel="canonical" href="https://adityasri.in" />
+        <link rel="canonical" href="https://263nest.github.io/clay-mustard" />
         {/* SEO: Structured Data for Google */}
         <script type="application/ld+json">{`
           {
             "@context": "https://schema.org",
             "@type": "Person",
-            "name": "Aditya Kumar Srivastava",
-            "url": "https://adityasri.in",
+            "name": "Ernest Muchiri",
+            "url": "https://263nest.github.io/clay-mustard",
             "sameAs": [
-              "https://github.com/adityaSrivastava29",
-              "https://www.linkedin.com/in/adityakumar29",
-              "https://x.com/adityasri_in"
+              "https://github.com/263nest"
             ],
-            "jobTitle": "Software Engineer | Java Full Stack Developer",
-            "worksFor": {
-              "@type": "Organization",
-              "name": "Cognizant Technology Solutions"
-            },
-            "knowsAbout": ["Java", "Spring Boot", "React", "PostgreSQL", "Redis", "AWS", "Microservices", "REST API", "Docker", "CI/CD"],
-            "alumniOf": {
-              "@type": "CollegeOrUniversity",
-              "name": "Noida Institute of Engineering and Technology"
-            },
-            "description": "Java Full Stack Developer with 3.5+ years of experience delivering enterprise-grade applications using Java, Spring Boot, React, and PostgreSQL. AWS Certified Developer.",
-            "email": "adityasrivastava.niet@gmail.com"
+            "jobTitle": "Full Stack Developer",
+            "knowsAbout": ["React", "Node.js", "JavaScript", "TypeScript", "Cloud", "Web Development"],
+            "description": "Full Stack Developer building modern applications using React, Node.js, and cloud technologies."
           }
         `}</script>
         {/* Structured Data: WebSite (for sitelinks search box) */}
@@ -87,9 +76,9 @@ function App() {
           {
             "@context": "https://schema.org",
             "@type": "WebSite",
-            "name": "Aditya Kumar Srivastava Portfolio",
-            "url": "https://adityasri.in",
-            "description": "Portfolio of Aditya Kumar Srivastava — Java Full Stack Developer specializing in Spring Boot, React, and AWS."
+            "name": "Ernest Muchiri Portfolio",
+            "url": "https://263nest.github.io/clay-mustard",
+            "description": "Portfolio of Ernest Muchiri — Full Stack Developer specializing in React, Node.js, and cloud technologies."
           }
         `}</script>
         <meta

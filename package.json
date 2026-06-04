@@ -1,8 +1,9 @@
 {
-  "name": "aditya-portfolio",
+  "name": "ernest-muchiri-portfolio",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://263nest.github.io/clay-mustard",
+  "description": "Personal portfolio website of Ernest Muchiri built with React.",
   "main": "index.js",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
